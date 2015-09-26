@@ -1,5 +1,7 @@
 # 関西フロントエンドUG
 
+[![Join the chat at https://gitter.im/kfug/kfug](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kfug/kfug?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 関西フロントエンドUGは、関西に巣食うフロントエンドエンジニアのためのコミュニティです。
 
 「最近のWeb制作ってどうなのよ?」をテーマに、エンジニア向け、デザイナー向けのイベントを開催し、 勉強したり話をしたり、飲んだり笑ったりしていこうという会です。
