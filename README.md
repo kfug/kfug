@@ -1,6 +1,6 @@
 # 関西フロントエンドUG
 
-関西フロントエンドUGは、関西を中心に活動するフロントエンドエンジニアのためのコミュニティです。
+[![Join the chat at https://gitter.im/kfug/kfug](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kfug/kfug?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 html や CSS javascript と言ったWebフロント制作界隈のテーマを中心に、
 毎月勉強会やもくもく会などを開催し、技術者同士の情報共有を図っています。
